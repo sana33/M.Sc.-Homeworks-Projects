@@ -1,0 +1,28 @@
+# The contained cliques in the communities at k=5
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR5\network_LFR5_Om3.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 206 
+1: 234 
+2: 267 
+3: 317 
+4: 320 603 574 604 572 575 573 519 
+5: 367 431 
+6: 443 
+7: 444 
+8: 448 449 638 946 
+9: 466 
+10: 549 
+11: 570 
+12: 577 916 917 918 919 
+13: 697 
+14: 720 1067 1081 824 
+15: 872 873 874 1077 875 1066 
+16: 909 910 
+17: 927 
+18: 934 
+19: 935 
+20: 1014 1015 

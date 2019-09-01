@@ -1,0 +1,11 @@
+# The graph of at k=6
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR4\network_LFR4_Om5.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+2 6 1
+3 8 1
+4 7 1
+6 8 1

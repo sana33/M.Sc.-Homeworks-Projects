@@ -1,0 +1,21 @@
+function [wghVec,Hvec,HL,WHL,featFreq] = WHL_Calc(X,w)
+
+n = size(X,1);
+m = size(X,2);
+Hvec = zeros(1,m);
+featFreq = zeros(n,m);
+for c1 = 1:m
+    [Hvec(c1),~,freq,ic] = entCalc(X(:,c1));
+    featFreq(:,c1) = freq(ic);
+end
+if w
+    wghVec = sigmoidRev(Hvec);
+else
+    wghVec = ones(1,m);
+end
+
+HL = sum(Hvec);
+WHL = sum(wghVec.*Hvec);
+
+end
+

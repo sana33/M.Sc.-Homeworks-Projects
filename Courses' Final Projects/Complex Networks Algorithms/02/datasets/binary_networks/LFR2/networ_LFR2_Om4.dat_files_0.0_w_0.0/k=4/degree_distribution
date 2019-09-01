@@ -1,0 +1,17 @@
+# The com. degree distr. of the  communities at k=4
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR2\networ_LFR2_Om4.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 20
+1 11
+2 11
+3 2
+4 6
+5 5
+6 2
+8 1
+9 2
+

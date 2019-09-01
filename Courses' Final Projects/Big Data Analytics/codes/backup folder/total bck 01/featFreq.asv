@@ -1,0 +1,11 @@
+function [featUnq,featUnqFreq] = featFreq(X)
+
+n = size(X,1);
+m = size(X,2);
+featUnq = zeros
+for k1 = 1:m
+    
+end
+
+end
+

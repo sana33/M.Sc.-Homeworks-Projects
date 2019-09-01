@@ -1,0 +1,50 @@
+# The links inside the communities at k=8
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR4\network_LFR4_Om5.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+776 987
+776 991
+776 986
+776 967
+776 984
+776 921
+776 965
+776 919
+776 615
+987 991
+987 986
+987 967
+987 984
+987 921
+987 965
+987 919
+987 615
+991 986
+991 967
+991 984
+991 921
+991 919
+991 615
+986 967
+986 984
+986 921
+986 965
+986 919
+967 984
+967 921
+967 965
+967 919
+967 615
+984 921
+984 965
+984 919
+984 615
+921 965
+921 919
+921 615
+965 919
+919 615

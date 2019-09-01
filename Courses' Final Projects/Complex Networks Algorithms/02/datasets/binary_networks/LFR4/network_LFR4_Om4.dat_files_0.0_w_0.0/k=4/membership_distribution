@@ -1,0 +1,15 @@
+# The node membership distr. in the  communities at k=4
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR4\network_LFR4_Om4.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 488
+1 378
+2 72
+3 40
+4 17
+5 4
+6 1
+

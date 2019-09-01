@@ -1,0 +1,12 @@
+# The communities at k=8
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR3\network_LFR3_Om5.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 796 864 916 805 866 585 631 703 
+1: 932 955 909 972 943 954 958 920 767 905 800 633 
+2: 873 893 930 653 876 787 851 863 815 723 
+3: 796 864 916 988 805 866 703 672 700 
+4: 963 976 987 867 910 986 959 917 844 824 948 802 886 

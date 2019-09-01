@@ -1,0 +1,27 @@
+# The size distr. of the  communities at k=5
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR1\networ_LFR1_Om5.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+5 10
+6 5
+7 3
+8 5
+9 1
+10 2
+11 3
+12 3
+13 5
+17 1
+21 1
+22 4
+23 1
+24 1
+27 2
+28 1
+29 2
+31 1
+32 2
+

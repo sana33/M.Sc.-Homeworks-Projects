@@ -1,0 +1,53 @@
+# The links inside the communities at k=10
+# from G:\Dropbox\Raghda\CNA\Final Project\other methods\CFinder-2.0.6--1448\G:\Dropbox\Raghda\CNA\Final Project\Datasets\binary_networks\LFR3\network_LFR3_Om5.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+963 976
+963 987
+963 867
+963 910
+963 986
+963 959
+963 917
+963 948
+963 886
+976 987
+976 867
+976 910
+976 986
+976 959
+976 917
+976 948
+976 886
+987 867
+987 910
+987 986
+987 959
+987 917
+987 948
+987 886
+867 910
+867 986
+867 959
+867 917
+867 948
+867 886
+910 986
+910 959
+910 917
+910 948
+910 886
+986 959
+986 917
+986 948
+986 886
+959 917
+959 948
+959 886
+917 948
+917 886
+948 886

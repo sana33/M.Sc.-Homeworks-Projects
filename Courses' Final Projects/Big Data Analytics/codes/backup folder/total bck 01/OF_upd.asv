@@ -1,0 +1,21 @@
+function [OF_new] = OF_upd(Hvec,osIdxFeatFreq,a,b,Xreduc,w)
+
+Hvec_new = (1+b).*Hvec-(((a/b)-a)*log2(a)-(b+1)*log2(b))-a.*deltaFunc(osIdxFeatFreq);
+wghVec_new = sigmoidRev(Hvec_new);
+
+n = size(Xreduc,1);
+m = size(X,2);
+Hvec = zeros(1,m);
+featFreq = zeros(n,m);
+for c1 = 1:m
+    [Hvec(c1),~,freq,ic] = entCalc(X(:,c1));
+    featFreq(:,c1) = freq(ic);
+end
+if w
+    wghVec = sigmoidRev(Hvec);
+else
+    wghVec = ones(1,m);
+end
+
+end
+
